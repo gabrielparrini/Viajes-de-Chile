@@ -1,1 +1,24 @@
+.raleway-thin {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+}
 
+.raleway-regular {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+.backgroundcolor {
+  background-color: aqua;
+}
+
+h5 {
+  color: white;
+}
+p {
+  color: aliceblue;
+}
+
+.bg-primary {
+  background-color: aqua;
+}
